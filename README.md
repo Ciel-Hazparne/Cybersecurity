@@ -1,3 +1,3 @@
 # Cybersecurity
 ## Active Directory
-- Assess the security of your Active Directory with few or all privileges. This tool offers functionalities similar to PingCastle, ORADAD, or even PurpleKnight (with some bonuses) : https://github.com/Ciel-Hazparne/ADcheck
+- **ADcheck** - évaluer la sécurité de son Active Directory avec peu ou pas de privilèges : https://github.com/Ciel-Hazparne/ADcheck
